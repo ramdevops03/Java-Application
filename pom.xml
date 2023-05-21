@@ -18,18 +18,10 @@
             <groupId>com.sun.net.httpserver</groupId>
             <artifactId>httpserver</artifactId>
             <version>20070405</version>
-            <scope>provided</scope>
-        </dependency>
-    </dependencies>
-         <dependencies>
-    <!-- Other dependencies -->
-    <dependency>
-        <groupId>com.sun.net.httpserver</groupId>
-        <artifactId>httpserver</artifactId>
-        <version>20070405</version>
         <scope>system</scope>
         <systemPath>${basedir}/lib/httpserver-20070405.jar</systemPath>
-    </dependency>
-</dependencies>
+             </dependency>
+    </dependencies>
+         
 
 </project>
